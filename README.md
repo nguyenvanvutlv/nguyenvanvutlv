@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 <div style="margin: auto;">
-  <h2> <img src="https://media.giphy.com/media/LMt9638dO8dftAjtco/giphy.gif" width="200" height="100"</img> My name is <b>Nguyễn Văn Vũ</b>  <img src="https://media.giphy.com/media/MT5UUV1d4CXE2A37Dg/giphy.gif" width="200" height="200" border-radius="5px"</img>
+  <h2> <img src="https://media.giphy.com/media/LMt9638dO8dftAjtco/giphy.gif" width="200" height="200"</img> My name is <b>Nguyễn Văn Vũ</b>  <img src="https://media.giphy.com/media/MT5UUV1d4CXE2A37Dg/giphy.gif" width="200" height="200" border-radius="5px"</img>
     
   </h2>
 </div>
