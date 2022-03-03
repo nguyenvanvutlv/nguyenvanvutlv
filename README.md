@@ -7,9 +7,7 @@
 </div>
 
 <h1 align="center">Hi 👋, I'm Nguyễn Văn Vũ</h1>
-- 🌱 I’m currently learning **Python and Java**
-
-- 📫 How to reach me **nguyenvanvu.tlv@gmail.com**
+- 🌱 I’m currently learning Python
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
