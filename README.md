@@ -7,7 +7,18 @@
 </div>
 
 <h1 align="center">Hi 👋, I'm Nguyễn Văn Vũ</h1>
-- 🌱 I’m currently learning Python
+- 🌱 I’m currently learning Backend Development with Go and Python
+
+### ⚡ GitHub Stats
+<table>
+<tr>
+  <td width="60%">
+    <a href="#">
+      <img align="center" src="https://github-readme-stats.vercel.app/api?username=nguyenvanvutlv&show_icons=true&theme=vue&include_all_commits=true&hide_border=true" >
+    </a>
+  </td>
+</tr>
+<table>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
